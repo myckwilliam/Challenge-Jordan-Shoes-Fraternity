@@ -133,7 +133,7 @@ body {
   .cards {
     padding-right: 7vw;
     padding-left: 7vw;
-    grid-template-columns: repeat(1, 280px);
+    grid-template-columns: repeat(1, 300px);
   }
 }
 .card {
