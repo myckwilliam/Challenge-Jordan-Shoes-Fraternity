@@ -4,4 +4,9 @@ In this project, I made a UI in HTML and CSS based on [this project](https://www
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/75875219/193700284-2396cf6a-a161-40e8-b9d7-b7b2112f0434.png)
+<br>
+![image](https://user-images.githubusercontent.com/75875219/193700342-d508a6f9-7b06-4d2d-ad6c-230c7d53708f.png)
+<br>
+
 
