@@ -113,7 +113,7 @@ body {
   justify-content: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 1461px) {
   .cards {
     padding-right: 7vw;
     padding-left: 7vw;
@@ -121,6 +121,21 @@ body {
   }
 }
 
+@media (max-width: 1460px) {
+  .cards {
+    padding-right: 7vw;
+    padding-left: 7vw;
+    grid-template-columns: repeat(2, 280px);
+  }
+}
+
+@media (max-width: 720px) {
+  .cards {
+    padding-right: 7vw;
+    padding-left: 7vw;
+    grid-template-columns: repeat(1, 280px);
+  }
+}
 .card {
   width: 300px;
   height: 302px;
